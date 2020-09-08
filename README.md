@@ -1,5 +1,5 @@
 # VL53L0X-HAL-API
-Erstellt wurde eine leichtgewichtigere VL53L0X-API auf Basis der für [Arduino erstellten API von Pololu](https://github.com/pololu/vl53l0x-arduino) und dieser umgewandelten C-Version von [yetifrisstlama](https://github.com/yetifrisstlama/vl53l0x-non-arduino). Diese API wurde außerdem um die ST-HAL-Library erweitert und die Kommentare auf Deutsch übersetzt.
+Erstellt wurde eine leichtgewichtigere VL53L0X-API auf Basis der für [Arduino erstellten API von Pololu](https://github.com/pololu/vl53l0x-arduino) und der abgewandelten C-Version von [yetifrisstlama](https://github.com/yetifrisstlama/vl53l0x-non-arduino). Diese API wurde außerdem um die ST-HAL-Library erweitert und die Kommentare auf Deutsch übersetzt.
 ## Nächste Schritte
 Im nächsten Verlauf wird die VL53L0X-HAL-API mit dem STM32F103RB getestet und entsprechend angepasst.
 
